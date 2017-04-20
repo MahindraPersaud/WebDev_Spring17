@@ -21,5 +21,49 @@ You can add links with markdown as follows:
 ```
 [The Link Title A User Sees](http://theURLtoLINKto.com)
 ```
+## Section A Presentation Order
 
-Before we begin, lets take a look at the Shuffle_Student folder to see how we will be chosing a random order for our presentations today and Wednesday. After we generate a list together, the order will be posted below.
+**NOTE: You will each be assigned a fellow classmate to ask a question after they have presented.**
+
+- Luvneesh
+- Nicholas
+- Stephanie
+- Jane
+- Valeria
+- Alejandra
+- Lauren
+- Gilbert
+
+- Adam
+- Irka
+- Asim
+- Jason
+- Leo
+- Brendon
+- Mounir
+
+## Section C Presenation Order
+**NOTE: You will each be assigned a fellow classmate to ask a question after they have presented. (The person that presents after you) **
+- Hung
+- Mahindra
+- Arnav
+- Greta
+- Danny
+
+- Edan
+- David
+- Matthew C
+- Michelle
+- Kevin F
+
+- Michael
+- Lillian
+- Joris
+- Natalia
+- Huiwah
+
+- Hyun
+- Maria
+- Monjur
+- Kevin L
+
